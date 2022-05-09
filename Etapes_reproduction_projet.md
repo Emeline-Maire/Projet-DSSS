@@ -9,4 +9,4 @@ la nouvelles base de données est labonnebase.csv
 -Ensuite, on labélise l'ensemble de nos variables afin de pouvoir faire nos régressions. On utilise le dataframe labonnebase.csv et on sort comme nouveau dataframe
 base_clean_2.csv. le notebook a utiliser pour cet étape est Nettoyage de la base
 
--Enfin, en utilisant base_clean_2, on regarde les matrices de corrélations entre nos variables et on fait tourner notre modèle de double-Lasso 
+-Enfin, en utilisant base_clean_2, on regarde les matrices de corrélations entre nos variables et on fait tourner notre modèle de double-Lasso. Le Notebook utilisé à cette étape s'appelle "Régressions" 
