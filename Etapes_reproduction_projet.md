@@ -11,4 +11,4 @@ base_clean_2.csv. le notebook a utiliser pour cet étape est Nettoyage de la bas
 
 -Enfin, en utilisant base_clean_2, on regarde les matrices de corrélations entre nos variables et on fait tourner notre modèle de double-Lasso. Le Notebook utilisé à cette étape s'appelle "Régressions" 
 
-On trouvera en plus comme Notebook un notebook "création base de données" qui est le notebook utilisé afin de pouvoir scrapper les données du site internet theEroticReview}
+On trouvera en plus comme Notebook un notebook "création base de données" qui est le notebook utilisé afin de pouvoir scrapper les données du site internet theEroticReview. Cette étape n'est malheureusement pas reproductible, puisque les cookies de connexion ainsi que les headers liés au compte ne sont plus à jour (et ne peuvent être mis à jour car l'abonnement premium aux sites a été résilié).}
